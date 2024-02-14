@@ -2,7 +2,7 @@ class Calculadora {
     
     public static void main(String[] args) {
         
-        System.out.println("Entrando a la calculadora");
+        System.out.println("Entrando a la calculadora...");
         System.out.println();
         int respuesta = 0;
 
