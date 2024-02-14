@@ -8,6 +8,7 @@ class Calculadora {
 
         do {
             System.out.println("Que operacion desea realizar?");
+            System.out.println("Elige segun su numero correspondiente");
             System.out.println("1. Suma");
             System.out.println("2. Resta");
             System.out.println("3. Multiplicacion");
